@@ -1,6 +1,6 @@
 # Data Fetching
 
-Exemplos para consumir APIs RESTful no React utilizando hook e biblioteca React Query.
+Exemplos para consumir APIs RESTful no React utilizando hook ou biblioteca React Query.
 
 ## Tecnologias
 
@@ -11,3 +11,4 @@ Exemplos para consumir APIs RESTful no React utilizando hook e biblioteca React 
 
 - Clone o repositório
 - Instale as dependências com `yarn`
+- Execute com `yarn dev`
