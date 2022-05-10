@@ -1,6 +1,7 @@
 # Data Fetching
 
 Exemplos para consumir APIs RESTful no React utilizando hook ou biblioteca React Query.
+Tutorial: https://youtu.be/uNFB9EbQz90
 
 ## Tecnologias
 
